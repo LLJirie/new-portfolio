@@ -21,8 +21,8 @@ A portfolio is often the first point of contact for employers looking to fill a 
 Check it out! https://lljirie.github.io/new-portfolio/
 
 
-# Project1 Deployed Link
-"https://lljirie.github.io/Project1/"
+# Pleasantly Deployed Link
+"https://lljirie.github.io/Pleasantly/"
 
 # Weather Dash Deployed Link
 "https://lljirie.github.io/Weather-Dashboard/"
